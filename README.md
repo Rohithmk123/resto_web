@@ -39,16 +39,11 @@ Include a link or screenshot to a live demo of your project.
 
 2. Open the `index.html` file in your browser.
 
-## Screenshots
-
-Include screenshots or a gif showcasing your project. You can use tools like [Lightshot](https://app.prntscr.com/en/index.html) or [Giphy](https://giphy.com/apps/giphycapture) for creating gifs.
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 
 ## License
 
